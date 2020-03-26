@@ -2,10 +2,7 @@
   "name": "scan-agent",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "bootstrap-datepicker": "1.6.4",
-    "commander": "2.16.0"
-  },
+  "dependencies": {},
   "scripts": {
     "start": "react-scripts-ts start",
     "build": "react-scripts-ts build",
